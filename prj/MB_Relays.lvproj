@@ -78,6 +78,8 @@
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="gen MB frame -read Relay Status.vi" Type="VI" URL="../../APIs/private/gen MB frame -read Relay Status.vi"/>
+			<Item Name="RELAYS Get Relay Status.vi" Type="VI" URL="../../APIs/public/RELAYS Get Relay Status.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
